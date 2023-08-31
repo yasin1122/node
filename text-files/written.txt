@@ -1,2 +1,0 @@
-This is a NodeJS crash course.
-This is appended to the file.
