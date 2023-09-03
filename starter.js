@@ -1,4 +1,3 @@
-// imports
 const path = require('path')
 const { add, subtract, multiply, divide } = require('./math')
 const fs = require('fs').promises
